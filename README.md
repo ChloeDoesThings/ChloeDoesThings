@@ -8,3 +8,5 @@ What are you known for? - I've made Roblox scripts such as Reflex Hub which are 
 What are your pronouns? - I go by she/her, but you can call me anything you want I guess.
 
 What are you working on now? - Mainly Reflex Hub (which is currently in its developer phase), and a brand new project called ChloeRT.
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ChloeDoesThings&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
